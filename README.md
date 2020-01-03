@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The challenges that I encountered while building the app incldues understanding the different types of file generated in android studio, understanding how recycleView works, as well as how to properly handle events. 
 
 ## License
 
